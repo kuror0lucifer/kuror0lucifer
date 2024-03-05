@@ -36,3 +36,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" width="40px" height="40px" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40px" height="40px" />&nbsp;
+
+### My stats
+
+<div id="stats" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuror0lucifer&theme=react" alt="big stat" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuror0lucifer&theme=react" alt="big stat" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuror0lucifer&theme=react" alt="big stat" />
+</div>
