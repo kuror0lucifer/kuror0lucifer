@@ -59,8 +59,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuror0lucifer&theme=react" alt="big stat" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuror0lucifer&theme=react" alt="big stat" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuror0lucifer&theme=react" alt="big stat" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kuror0lucifer&theme=react&hide_border=true" alt="GitHub Streak" />
-    </a>
+    <img src="https://streak-stats.demolab.com?user=kuror0lucifer&theme=react&hide_border=true" alt="GitHub Streak" />
+    
 </div>
 
 ---
