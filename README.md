@@ -7,13 +7,13 @@
     <h3>Frontend developer from Kaliningrad</h3>
 </div>
 <div id="socials" align="center">
-    <a href="telegram-url">
+    <a href="https://t.me/fedf27">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="93"/>
     </a>
-        <a href="vkontakte-url">
+        <a href="https://vk.com/fedf1">
         <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="vkontakte" width="100" />
     </a>
-        <a href="codewars-url">
+        <a href="https://www.codewars.com/users/kuroro%20lucifer">
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" width="96"/>
     </a>
 </div>
