@@ -30,8 +30,8 @@
 
 - :man_student: Student of KLGTU majoring in **Information security** (4th year)
 - :books: I'm currently learning **Frontend development**
-- :computer: Profile on **[codewars](codewars-link)**
-- :iphone: Reach me by **[Telegram](telegram-link), [email](mailto:email-address), [vkontakte](vkontakte-link)**
+- :computer: Profile on **[codewars](https://www.codewars.com/users/kuroro%20lucifer)**
+- :iphone: Reach me by **[Telegram](https://t.me/fedf27), [email](mailto:email-address), [vkontakte](https://vk.com/fedf1)**
 - :speech_balloon: I speak **Russian** and **English**
 
 ---
