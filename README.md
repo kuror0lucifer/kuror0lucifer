@@ -7,13 +7,13 @@
     <h3>Frontend developer from Kaliningrad</h3>
 </div>
 <div id="socials" align="center">
-    <a href="https://t.me/fedf27">
+    <a href="https://t.me/fedf27" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="93"/>
     </a>
-        <a href="https://vk.com/fedf1">
+        <a href="https://vk.com/fedf1" target="_blank">
         <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="vkontakte" width="100" />
     </a>
-        <a href="https://www.codewars.com/users/kuroro%20lucifer">
+        <a href="https://www.codewars.com/users/kuroro%20lucifer" target="_blank">
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" width="96"/>
     </a>
 </div>
@@ -30,8 +30,8 @@
 
 - :man_student: Student of KLGTU majoring in **Information security** (4th year)
 - :books: I'm currently learning **Frontend development**
-- :computer: Profile on **[codewars](https://www.codewars.com/users/kuroro%20lucifer)**
-- :iphone: Reach me by **[Telegram](https://t.me/fedf27), [email](mailto:email-address), [vkontakte](https://vk.com/fedf1)**
+- :computer: Profile on **<a href="https://www.codewars.com/users/kuroro%20lucifer" target="_blank">codewars</a>**
+- :iphone: Reach me by **<a href="https://t.me/fedf27" target="_blank">telegram</a>, <a href="mailto:email-address" target="_blank">email</a>, <a href="https://vk.com/fedf1" target="_blank">vkontakte</a>**
 - :speech_balloon: I speak **Russian** and **English**
 
 ---
