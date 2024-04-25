@@ -10,12 +10,13 @@
     <a href="https://t.me/fedf27" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="93"/>
     </a>
-        <a href="https://vk.com/fedf1" target="_blank">
+    <a href="https://vk.com/fedf1" target="_blank">
         <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="vkontakte" width="100" />
     </a>
-        <a href="https://www.codewars.com/users/kuroro%20lucifer" target="_blank">
+    <a href="https://www.codewars.com/users/kuroro%20lucifer" target="_blank">
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" width="96"/>
     </a>
+    
 </div>
 
 &#13;
@@ -66,7 +67,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuror0lucifer&theme=react" alt="big stat" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuror0lucifer&theme=react" alt="big stat" />
     <img src="https://streak-stats.demolab.com?user=kuror0lucifer&theme=react&hide_border=true" alt="GitHub Streak" />
-    
+    <a href="https://www.codewars.com/users/kuroro%20lucifer" target="_blank">
+        <img src="https://www.codewars.com/users/kuroro%20lucifer/badges/large" alt="codewars" width="auto" height="auto"/>
+    </a>
 </div>
 
 ---
