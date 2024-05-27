@@ -67,9 +67,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuror0lucifer&theme=react" alt="big stat" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuror0lucifer&theme=react" alt="big stat" />
     <img src="https://streak-stats.demolab.com?user=kuror0lucifer&theme=react&hide_border=true" alt="GitHub Streak" />
-    <a href="https://www.codewars.com/users/kuroro%20lucifer" target="_blank">
-        <img src="https://www.codewars.com/users/kuroro%20lucifer/badges/large" alt="codewars" width="auto" height="auto"/>
-    </a>
 </div>
 
 ---
