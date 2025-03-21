@@ -26,7 +26,7 @@
 ### :man_technologist: About Me:
 
 - :man_student: Student of KLGTU majoring in **Information security** (5th year)
-- :books: I'm **Frontend developer**
+- :books: I'm a **frontend developer**
 - :computer: Profile on **<a href="https://www.codewars.com/users/kuroro%20lucifer" target="_blank">codewars</a>**
 - :iphone: Reach me by **<a href="https://t.me/fedf27" target="_blank">telegram</a>, <a href="mailto:kovalishin.2014@mail.ru" target="_blank">email</a>**
 - :speech_balloon: I speak **Russian** and **English**
